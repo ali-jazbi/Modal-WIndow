@@ -14,3 +14,4 @@ document.addEventListener("keydown", function (e) {
 });
 document.querySelector(".show-modal").addEventListener("click", openModel);
 document.querySelector(".close-modal").addEventListener("click", closeModal);
+overlay.addEventListener("click", closeModal);
