@@ -45,16 +45,6 @@ To run this project locally:
 
 ---
 
-### 🤝 **Contributions** 🤝  
-If you’d like to contribute or suggest improvements, feel free to:  
-1. Fork the repository.  
-2. Create a new branch for your feature:  
-   ```bash
-   git checkout -b feature/your-feature
-   ```  
-3. Commit your changes and open a pull request.  
-
----
 
 ### 📜 **License** 📜  
 This project is open-source and available under the **MIT License**. Feel free to use, modify, and share it!  
